@@ -1,5 +1,5 @@
 # About
-__Lynchbot__ is a very simple bot for Twitter that tweets a random line every two minutes from [David Lynch's](https://en.wikipedia.org/wiki/David_Lynch) five films: _Mulholland Drive_, _Twin Peaks: Fire Walk with Me_, _Blue Velvet_, _Eraserhead_ and _The Elephant Man_.
+__Lynchbot__ is a very simple bot for Twitter that tweets a random line (time to time) from [David Lynch's](https://en.wikipedia.org/wiki/David_Lynch) five films: _Mulholland Drive_, _Twin Peaks: Fire Walk with Me_, _Blue Velvet_, _Eraserhead_ and _The Elephant Man_.
 Theoretically it can tweet anything from a text file, but the goal with this project is to tweet specifically from the `.txt` script files I uploaded.
 
 ## Requirements
