@@ -23,3 +23,8 @@ access_token_secret='YOUR_ACCESS_TOKEN_SECRET_HERE'
 
 Then, run the code by opening the terminal and typing: `python bot.py`.
 
+# Example
+[This account](https://twitter.com/lynchianbot) was created with the sole intention of testing the script.
+
+![Screen Shot 2023-07-31 at 19 51 06](https://github.com/vszanetti/lynchbot/assets/67712911/143154a0-786c-4ac4-802b-5a7734e31b1c)
+
