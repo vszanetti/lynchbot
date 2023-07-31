@@ -2,10 +2,10 @@ import tweepy
 import random
 import time
 
-client = tweepy.Client(consumer_key='2tCHECuZnByqUCK3lPIuSfzWR',
-                       consumer_secret='tak1VFhuDBiPDWlyLBrSUhDE6o5cHFoyp8TU1zV7TbtkATQe3x',
-                       access_token='983374461222211584-n6IxqXDcM5gyyzxypH87Eb53bq5iy6e',
-                       access_token_secret='QWI1cUOycGwE5e9IVUszOAh8OdGJi5ilBybtLvVRGYh73')
+client = tweepy.Client(consumer_key='YOUR_CONSUMER_KEY_HERE',
+                       consumer_secret='YOUR_CONSUMER_SECRETE_HERE',
+                       access_token='YOUR_ACCESS_TOKEN_HERE',
+                       access_token_secret='YOUR_ACCESS_TOKEN_SECRET_HERE')
 
 # Create a list of files to read from -- these must be in the same folder as this script or be correctly linked
 files = ["mulholland_drive.txt", "blue_velvet.txt", "the_elephant_man.txt","firewalkwithme.txt","eraserhead.txt"]
